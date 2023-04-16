@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo -i
+
 sudo apt update -y
 
 sudo apt install default-jre -y
